@@ -1,1 +1,2 @@
 实现了Configuration配置和注解注入的功能
+其中Repeatable的实现和多个配置源按照优先级的顺序排列一样
